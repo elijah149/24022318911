@@ -1,6 +1,6 @@
 # Grade Report: Data Structures and Algorithms 
 
-**Student:** 24022318911-  
+**Student:** 24022318911
 **Semester:** _TWO_                               
 **Academic Year:** _2025/2026_
 
